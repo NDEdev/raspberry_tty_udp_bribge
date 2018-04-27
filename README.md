@@ -1,6 +1,6 @@
 # raspberry_tty_udp_bribge
 
-This repository has hardcoded tty_udp_bridge service based on socat
+This repository has hardcoded tty to udp bridge service based on socat
 
 Install:
 1.Copy this project to your raspberry pi
