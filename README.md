@@ -4,11 +4,11 @@ This repository has hardcoded tty to udp bridge service based on socat
 
 Install:
 
-1.Copy this project to your raspberry pi
+1. Copy this project to your raspberry pi
 
-2.Install socat: sudo apt-get install socat
+2. Install socat: sudo apt-get install socat
 
-3.Do sudo make install
+3. Do sudo make install
 
 Remove:
 1. make reinstall
