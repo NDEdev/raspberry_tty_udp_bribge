@@ -1,0 +1,12 @@
+
+[Unit]
+Description=UART-UDP bridge
+After=network-online.target
+
+[Service]
+ExecStart=/usr/bin/raspberry_tty_udp_bridge.sh 
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
